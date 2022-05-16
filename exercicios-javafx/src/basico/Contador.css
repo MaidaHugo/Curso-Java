@@ -1,0 +1,39 @@
+.conteudo {
+    -fx-background-color: black;
+        background-color: black;
+    -fx-font-family: 'Roboto', sans-serif;  
+        font-family: 'Roboto', sans-serif;
+}
+    
+.titulo {
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 18px;
+        font-size: 18px;
+}
+
+.numero {
+    -fx-text-fill: #eee;
+    -fx-font-size: 22px;
+        font-size: 22px;
+}
+
+.botoes {
+    -fx-background-color: #fff;
+        background-color: #fff;
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 24px;
+        font-size: 24px;
+    -fx-min-width: 60px;
+        min-width: 60px;
+    -fx-min-height: 60px;
+        min-height: 60px;
+    -fx-background-radius: 30px; /* Pra ter uma esfera perfeita basta colocar o raio com metade do tamanho */
+}
+
+.verde {
+    -fx-text-fill: green;
+}
+
+.vermelho {
+    -fx-text-fill: red;
+}

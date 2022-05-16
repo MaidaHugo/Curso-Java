@@ -1,0 +1,78 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "workbench.colorTheme": "Dracula",
+  "java.dependency.packagePresentation": "hierarchical",
+  "cSpell.words": [
+    "Aquatico",
+    "Basico",
+    "Binario",
+    "botao",
+    "cabecalho",
+    "codigo",
+    "colecoes",
+    "Composicao",
+    "desenvolvedor",
+    "excecao",
+    "Funcao",
+    "Gabi",
+    "heroi",
+    "historico",
+    "indice",
+    "Kg",
+    "Km",
+    "maiuscula",
+    "Mamifero",
+    "parabens",
+    "parametro",
+    "Unario",
+    "Usuario",
+    "Utilitarios",
+    "Validacoes"
+  ],
+  "cSpell.ignoreWords": [
+    "Baguncado",
+    "Feijao",
+    "Heroi",
+    "Injecao",
+    "Kg",
+    "Km",
+    "Luca",
+    "Manu",
+    "Usuarios",
+    "feijao",
+    "frear",
+    "nums",
+    "promocao",
+    "rawtypes"
+  ],
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "wm",
+      "database": "wm",
+      "username": "root",
+      "password": "root"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "jdbc",
+      "database": "curso_java",
+      "username": "root",
+      "password": "root"
+    }
+  ]
+}

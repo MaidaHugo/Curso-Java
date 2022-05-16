@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "app.financeiro/app.financeiro.Teste",
+            "projectName": "app-financeiro_9c965d8a",
+            "modulePaths": ["!<C:/Users/hugo_/Desktop/Curso Java/app-calculo/src/module-info.java>"]
+
+        },
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MySQL",
+      "group": "MySQL",
+      "database": "curso_java",
+      "username": "root",
+      "password": "root"
+    }
+  ],
+  "cSpell.words": [
+    "Atomico",
+    "Embeddable",
+    "endereco",
+    "Endereco",
+    "Funcionario",
+    "funcionarios",
+    "insertable",
+    "Transacao",
+    "usuarios",
+    "Usuarios"
+  ],
+  
+}

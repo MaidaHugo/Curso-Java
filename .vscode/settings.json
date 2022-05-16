@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "java.dependency.packagePresentation": "hierarchical",
+    "cSpell.words": [
+        "Conexao",
+        "somatorio",
+        "usuario"
+    ]
+}

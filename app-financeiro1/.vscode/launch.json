@@ -1,0 +1,26 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "",
+            "vmArgs": "--module-path \"C:/Users/hugo_/Desktop/Curso Java/app-calculo/\" --add-modules  module-info.java,app.calculo",
+            "modulePaths": ["C:/Users/hugo_/Desktop/Curso Java/app-calculo/src"]
+            
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "app.financeiro/app.financeiro.Teste",
+            "projectName": "app-financeiro1_f63553e7",
+            
+        }
+    ]
+}

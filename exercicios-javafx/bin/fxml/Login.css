@@ -1,0 +1,32 @@
+.login {
+    -fx-background-color: black;
+        background-color: black;
+
+}
+
+.login-titulo {
+    -fx-font-size: 24px;
+        font-size: 24px;
+    -fx-text-fill: #fff;
+    -fx-font-family: "Poppins", sans-serif;
+        font-family: "Poppins", sans-serif;
+        
+    }
+    
+    .login-form-label {
+        -fx-font-size: 16px;
+        font-size: 16px;
+        -fx-text-fill: #fff;
+    -fx-font-family: "Poppins", sans-serif;
+        font-family: "Poppins", sans-serif;
+}
+
+.login-form-field {
+    -fx-background-color: linear-gradient(to right, #ff416c, #ff4b2b);
+        background-color: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+
+.login-form-botao {
+    -fx-font-size: 16px;
+        font-size: 16px;
+}
